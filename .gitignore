@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.local
+*.log
+fixtures/*.mp4
+fixtures/*.mkv
+.DS_Store
+.vercel
